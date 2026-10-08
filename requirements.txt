@@ -11,6 +11,9 @@ openai
 
 langchain-anthropic
 
+# OpenRouter Integration
+langchain-openrouter
+
 # Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
@@ -22,6 +25,9 @@ huggingface-hub
 
 # Environment Variable Management
 python-dotenv
+
+# Streamlit App
+streamlit
 
 # Machine Learning Utilities
 numpy
